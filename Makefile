@@ -1,10 +1,8 @@
 build:
-	gcc Client_string_4.c -o one
-	gcc Server_string.c_4 -o two
-	gcc stack.c_1 -o stack
-	gcc Stack_mutex.c_3 -o mutex
-	gcc sender2_5.c -o send2
-	gcc rec2_5.c -o rec2
-
-
-
+	gcc Exe_1_Process.c -o sys_one
+	gcc file_1_Systemcall.c -o 
+	gcc count2_Systemcall.c -o 
+	gcc shell_2_Process.c -o 
+	gcc max_1_Thread.c -o 
+	gcc sig_3_Systemcall.c -o 
+	gcc sumofarc2_Thread.c -o
